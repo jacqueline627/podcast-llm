@@ -17,3 +17,4 @@
 - docs: link the usage section
 - docs: add a note about the defaults
 - chore: fix a small wording issue
+- chore: fix a small wording issue
